@@ -44,5 +44,3 @@ More help [here](https://datathirst.net/blog/2019/4/20/setup-databricks-connect-
 ## Setup Deployment
 If you would like to deploy from your local PC to Databricks create a file in the root called MyBearerToken.txt and paste in a bearer token from the Databricks UI.
 
-
-Copyright Data Thirst Ltd (2019)
