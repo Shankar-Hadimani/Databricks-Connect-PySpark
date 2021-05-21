@@ -1,5 +1,3 @@
-[![Build Status](https://dev.azure.com/datathirst/Public-Demos/_apis/build/status/DataThirstLtd.Databricks-Connect-PySpark?branchName=master)](https://dev.azure.com/datathirst/Public-Demos/_build/latest?definitionId=37&branchName=master)
-
 # Developing with Databricks-Connect & Azure DevOps
 A guide of how to build good Data Pipelines with Databricks Connect using best practices.
 Details: https://datathirst.net/blog/2019/9/20/series-developing-a-pyspark-application
@@ -39,7 +37,6 @@ If you need to setup databricks-connect then run:
 ```
 databricks-connect configure
 ```
-More help [here](https://datathirst.net/blog/2019/4/20/setup-databricks-connect-on-windows) & [here](https://datathirst.net/blog/2019/3/7/databricks-connect-finally)
 
 ## Setup Deployment
 If you would like to deploy from your local PC to Databricks create a file in the root called MyBearerToken.txt and paste in a bearer token from the Databricks UI.
