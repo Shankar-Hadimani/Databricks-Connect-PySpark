@@ -1,6 +1,4 @@
 # Developing with Databricks-Connect & Azure DevOps
-A guide of how to build good Data Pipelines with Databricks Connect using best practices.
-Details: https://datathirst.net/blog/2019/9/20/series-developing-a-pyspark-application
 
 ## About
 This is a sample Databricks-Connect PySpark application that is designed as a template for best practice and useability.
